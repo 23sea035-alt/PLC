@@ -10,24 +10,24 @@ This repository contains PLC program files (`.pdw`) for **Fatek** programmable l
 
 | File | PLC Model | Purpose |
 |------|-----------|---------|
-| `2024_PLC-Q1.pdw` | FBs-20MC | PLC exam / exercise 1st quarter 2024 |
-| `2024_PLC_Q3.pdw` | FBs-20MC | PLC exam / exercise 3rd quarter 2024 |
-| `23sea035.pdw` | FBs-20MC | Main program - 23SEA035 |
-| `23sea035 new.pdw` | FBs-20MC | 23SEA035 - updated version |
-| `23sea035 new2.pdw` | FBs-20MC | 23SEA035 - updated version 2 |
-| `23sea035 new 4.pdw` | FBs-20MC | 23SEA035 - updated version 4 |
-| `23sea035_2.pdw` | FBs-20MC | 23SEA035 - version 2 |
-| `23sea035_3.pdw` | FBs-20MC | 23SEA035 - version 3 |
-| `23sea035_3 (1).pdw` | FBs-20MC | 23SEA035 - version 3 copy |
-| `exam.pdw` | FBs-14MA | PLC exam program |
-| `exc1,2.pdw` | FBs-20MC | Exercises 1 & 2 |
-| `Exercise_2-23SEA114.pdw` | FBs-20MC | Exercise 2 - 23SEA114 |
-| `Q_1.pdw` | FBs-14MA | Question 1 |
-| `Q_2.pdw` | FBs-14MA | Question 2 |
-| `Q_3.pdw` | FBs-14MA | Question 3 |
-| `Atheek.pdw` | FBs-20MC | Atheek project |
-| `kioooo.pdw` | FBs-20MC | kioooo project |
-| `ll,,.pdw` | FBs-20MC | ll project |
+| `Water_Level_Control_2024_Q1.pdw` | FBs-20MC | Water level control - 2024 Q1 exercise |
+| `Conveyor_Object_Detection_2024_Q3.pdw` | FBs-20MC | Conveyor object detection - 2024 Q3 exercise |
+| `Filling_Conveyor_System_23SEA035.pdw` | FBs-20MC | Filling and conveyor system |
+| `Sensor_Control_23SEA035_v1_updated.pdw` | FBs-20MC | Sensor control program (updated) |
+| `Sensor_Buzzer_Control_23SEA035_v2_updated.pdw` | FBs-20MC | Sensor and buzzer control (updated) |
+| `Liquid_Level_Monitoring_23SEA035_v4.pdw` | FBs-20MC | Liquid level monitoring system (v4) |
+| `Traffic_Light_Control_23SEA035_v2.pdw` | FBs-20MC | Traffic light control system (v2) |
+| `Elevator_Garage_Door_Control_23SEA035_v3.pdw` | FBs-20MC | Elevator/garage door control (v3) |
+| `Elevator_Garage_Door_Control_23SEA035_v3_copy.pdw` | FBs-20MC | Elevator/garage door control (v3 copy) |
+| `Conveyor_Proximity_Control_Exam.pdw` | FBs-14MA | Conveyor proximity sensor control (exam) |
+| `Exercise_1_2.pdw` | FBs-20MC | Exercises 1 & 2 |
+| `Traffic_Light_Exercise_2_23SEA114.pdw` | FBs-20MC | Traffic light exercise (23SEA114) |
+| `Water_Tank_Level_Control_Q1.pdw` | FBs-14MA | Water tank level control (Q1) |
+| `Conveyor_Control_Q2.pdw` | FBs-14MA | Conveyor control (Q2) |
+| `Counter_Conveyor_Control_Q3.pdw` | FBs-14MA | Counter and conveyor control (Q3) |
+| `Atheek_Project.pdw` | FBs-20MC | Atheek project |
+| `Mixing_Process_Control.pdw` | FBs-20MC | Mixing process control |
+| `Simple_Control_Logic.pdw` | FBs-20MC | Simple control logic |
 
 ## How to Open
 
